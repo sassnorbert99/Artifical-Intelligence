@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d464772-7b46-4128-86a3-b291bd1c4709" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bldk3FYu5z9Xbj3u0BWP67zjn7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.VarazsNegyzet">
+    <configuration name="GfG2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GfG2" />
+      <module name="6-ot 6 csapasra" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GfG3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GfG3" />
+      <module name="6-ot 6 csapasra" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SixToSixStroke" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SixToSixStroke" />
+      <module name="6-ot 6 csapasra" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarazsNegyzet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VarazsNegyzet" />
+      <module name="6-ot 6 csapasra" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VarazsNegyzet" />
+        <item itemvalue="Application.SixToSixStroke" />
+        <item itemvalue="Application.GfG3" />
+        <item itemvalue="Application.GfG2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d464772-7b46-4128-86a3-b291bd1c4709" name="Default Changelist" comment="" />
+      <created>1589210753864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589210753864</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="160" key="GridCell.Tab.0.bottom" timestamp="1589353501092">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="160" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1589353501092" />
+    <state width="1238" height="160" key="GridCell.Tab.0.bottom/0.23.1280.710@0.23.1280.710" timestamp="1589288455787" />
+    <state width="1238" height="160" key="GridCell.Tab.0.bottom/0.23.1280.713@0.23.1280.713" timestamp="1589222890335" />
+    <state width="1238" height="175" key="GridCell.Tab.0.bottom/0.23.1280.715@0.23.1280.715" timestamp="1589216209524" />
+    <state width="1238" height="160" key="GridCell.Tab.0.center" timestamp="1589353501091">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="160" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1589353501091" />
+    <state width="1238" height="160" key="GridCell.Tab.0.center/0.23.1280.710@0.23.1280.710" timestamp="1589288455786" />
+    <state width="1238" height="160" key="GridCell.Tab.0.center/0.23.1280.713@0.23.1280.713" timestamp="1589222890335" />
+    <state width="1238" height="175" key="GridCell.Tab.0.center/0.23.1280.715@0.23.1280.715" timestamp="1589216209523" />
+    <state width="1238" height="160" key="GridCell.Tab.0.left" timestamp="1589353501089">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="160" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1589353501089" />
+    <state width="1238" height="160" key="GridCell.Tab.0.left/0.23.1280.710@0.23.1280.710" timestamp="1589288455785" />
+    <state width="1238" height="160" key="GridCell.Tab.0.left/0.23.1280.713@0.23.1280.713" timestamp="1589222890334" />
+    <state width="1238" height="175" key="GridCell.Tab.0.left/0.23.1280.715@0.23.1280.715" timestamp="1589216209522" />
+    <state width="1238" height="160" key="GridCell.Tab.0.right" timestamp="1589353501092">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="160" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1589353501092" />
+    <state width="1238" height="160" key="GridCell.Tab.0.right/0.23.1280.710@0.23.1280.710" timestamp="1589288455786" />
+    <state width="1238" height="160" key="GridCell.Tab.0.right/0.23.1280.713@0.23.1280.713" timestamp="1589222890335" />
+    <state width="1238" height="175" key="GridCell.Tab.0.right/0.23.1280.715@0.23.1280.715" timestamp="1589216209524" />
+    <state width="1238" height="218" key="GridCell.Tab.1.bottom" timestamp="1589220139593">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state width="1238" height="218" key="GridCell.Tab.1.bottom/0.23.1280.713@0.23.1280.713" timestamp="1589220139593" />
+    <state width="1238" height="218" key="GridCell.Tab.1.bottom/0.23.1280.715@0.23.1280.715" timestamp="1589212762456" />
+    <state width="1238" height="218" key="GridCell.Tab.1.center" timestamp="1589220139593">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state width="1238" height="218" key="GridCell.Tab.1.center/0.23.1280.713@0.23.1280.713" timestamp="1589220139593" />
+    <state width="1238" height="218" key="GridCell.Tab.1.center/0.23.1280.715@0.23.1280.715" timestamp="1589212762454" />
+    <state width="1238" height="218" key="GridCell.Tab.1.left" timestamp="1589220139592">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state width="1238" height="218" key="GridCell.Tab.1.left/0.23.1280.713@0.23.1280.713" timestamp="1589220139592" />
+    <state width="1238" height="218" key="GridCell.Tab.1.left/0.23.1280.715@0.23.1280.715" timestamp="1589212762453" />
+    <state width="1238" height="218" key="GridCell.Tab.1.right" timestamp="1589220139593">
+      <screen x="0" y="23" width="1280" height="713" />
+    </state>
+    <state width="1238" height="218" key="GridCell.Tab.1.right/0.23.1280.713@0.23.1280.713" timestamp="1589220139593" />
+    <state width="1238" height="218" key="GridCell.Tab.1.right/0.23.1280.715@0.23.1280.715" timestamp="1589212762455" />
+    <state x="319" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1589349705726">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="319" y="209" key="com.intellij.ide.util.TipDialog/0.23.1280.709@0.23.1280.709" timestamp="1589349705726" />
+    <state x="319" y="209" key="com.intellij.ide.util.TipDialog/0.23.1280.710@0.23.1280.710" timestamp="1589220470462" />
+    <state x="319" y="210" key="com.intellij.ide.util.TipDialog/0.23.1280.715@0.23.1280.715" timestamp="1589210767851" />
+  </component>
+</project>
